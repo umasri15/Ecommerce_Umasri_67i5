@@ -1,0 +1,21 @@
+/* Mint green theme background */
+.mint-background {
+  background-color: #b1d8bc; /* very light mint green */
+  min-height: 100vh;
+  padding: 30px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.mint-title {
+  color: #ca5d5d; /* darker green for text */
+  font-size: 32px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.mint-section {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
+}
